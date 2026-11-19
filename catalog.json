@@ -4,6 +4,7 @@
   "documents": [
     {
       "number": 1,
+      "sourceNumber": "001",
       "title": "暗域几何与真空相变",
       "originalFilename": "001_暗域几何与真空相变_宇宙物质与能量构成机制专题深度研究手稿.pdf",
       "filename": "sci-123-001.pdf",
@@ -17,6 +18,7 @@
     },
     {
       "number": 2,
+      "sourceNumber": "002",
       "title": "神经涌现与觉知之源",
       "originalFilename": "002_神经涌现与觉知之源_意识的生物学与神经环路基础专题深度研究手稿.pdf",
       "filename": "sci-123-002.pdf",
@@ -30,6 +32,7 @@
     },
     {
       "number": 3,
+      "sourceNumber": "003",
       "title": "剪接编码与表观调控",
       "originalFilename": "003_剪接编码与表观调控_人类基因组少基因高复杂性调控机制专题深度研究手稿.pdf",
       "filename": "sci-123-003.pdf",
@@ -43,6 +46,7 @@
     },
     {
       "number": 4,
+      "sourceNumber": "004",
       "title": "多维基因与精准医道",
       "originalFilename": "004_多维基因与精准医道_遗传变异与个体健康及药物反应关联机制专题深度研究手稿.pdf",
       "filename": "sci-123-004.pdf",
@@ -56,6 +60,7 @@
     },
     {
       "number": 5,
+      "sourceNumber": "005",
       "title": "规范对称与万有统一",
       "originalFilename": "005_规范对称与万有统一_基本相互作用力与物理学定律统一机制专题深度研究手稿.pdf",
       "filename": "sci-123-005.pdf",
@@ -69,6 +74,7 @@
     },
     {
       "number": 6,
+      "sourceNumber": "006",
       "title": "代谢稳态与寿元边界",
       "originalFilename": "006_代谢稳态与寿元边界_人类寿命延展潜能与衰老分子调控机制专题深度研究手稿.pdf",
       "filename": "sci-123-006.pdf",
@@ -82,6 +88,7 @@
     },
     {
       "number": 7,
+      "sourceNumber": "007",
       "title": "去分化重塑与再生之钥",
       "originalFilename": "007_去分化重塑与再生之钥_器官无瘢痕再生控制与位置信息编码机制专题深度研究手稿.pdf",
       "filename": "sci-123-007.pdf",
@@ -95,6 +102,7 @@
     },
     {
       "number": 8,
+      "sourceNumber": "008",
       "title": "表观解锁与命运转分化",
       "originalFilename": "008_表观解锁与命运转分化_体细胞核重编程与跨谱系定向分化机制专题深度研究手稿.pdf",
       "filename": "sci-123-008.pdf",
@@ -108,6 +116,7 @@
     },
     {
       "number": 9,
+      "sourceNumber": "009",
       "title": "生长素极性与全能成胚",
       "originalFilename": "009_生长素极性与全能成胚_植物单一体细胞胚胎发生与全能性激活机制专题深度研究手稿.pdf",
       "filename": "sci-123-009.pdf",
@@ -121,6 +130,7 @@
     },
     {
       "number": 10,
+      "sourceNumber": "010",
       "title": "深地热机与核幔对流",
       "originalFilename": "010_深地热机与核幔对流_地球内部圈层动力学与地幔热机运转机制专题深度研究手稿.pdf",
       "filename": "sci-123-010.pdf",
@@ -134,6 +144,7 @@
     },
     {
       "number": 11,
+      "sourceNumber": "011",
       "title": "星际聆听与文明寻踪",
       "originalFilename": "011_星际聆听与文明寻踪_地外智慧生命特征信号搜寻与天体生物学判据专题深度研究手稿.pdf",
       "filename": "sci-123-011.pdf",
@@ -147,6 +158,7 @@
     },
     {
       "number": 12,
+      "sourceNumber": "012",
       "title": "前生化学与核糖起源",
       "originalFilename": "012_前生化学与核糖起源_地球早期生命化学起源与原始细胞演化机制专题深度研究手稿.pdf",
       "filename": "sci-123-012.pdf",
@@ -160,6 +172,7 @@
     },
     {
       "number": 13,
+      "sourceNumber": "013",
       "title": "演化辐射与群落共生",
       "originalFilename": "013_演化辐射与群落共生_地球物种多样性形成格局与多尺度维持机制专题深度研究手稿.pdf",
       "filename": "sci-123-013.pdf",
@@ -173,6 +186,7 @@
     },
     {
       "number": 14,
+      "sourceNumber": "014",
       "title": "正向选择与人择基因",
       "originalFilename": "014_正向选择与人择基因_塑造人类独特表型与认知的演化遗传学机制专题深度研究手稿.pdf",
       "filename": "sci-123-014.pdf",
@@ -186,6 +200,7 @@
     },
     {
       "number": 15,
+      "sourceNumber": "015",
       "title": "突触印迹与系统巩固",
       "originalFilename": "015_突触印迹与系统巩固_大脑记忆编码存储、睡眠重放与提取再巩固机制专题深度研究手稿.pdf",
       "filename": "sci-123-015.pdf",
@@ -199,6 +214,7 @@
     },
     {
       "number": 16,
+      "sourceNumber": "016",
       "title": "互惠演化与利他秩序",
       "originalFilename": "016_互惠演化与利他秩序_生物社会合作行为演化与人类公平偏好机制专题深度研究手稿.pdf",
       "filename": "sci-123-016.pdf",
@@ -212,6 +228,7 @@
     },
     {
       "number": 17,
+      "sourceNumber": "017",
       "title": "多组学涌现与定量生命",
       "originalFilename": "017_多组学涌现与定量生命_海量生物数据整合建模与系统生物学预测机制专题深度研究手稿.pdf",
       "filename": "sci-123-017.pdf",
@@ -225,6 +242,7 @@
     },
     {
       "number": 18,
+      "sourceNumber": "018",
       "title": "非共价构筑与自修复",
       "originalFilename": "018_非共价构筑与自修复_复杂多级化学自组装纠错与超分子材料构筑机制专题深度研究手稿.pdf",
       "filename": "sci-123-018.pdf",
@@ -238,6 +256,7 @@
     },
     {
       "number": 19,
+      "sourceNumber": "019",
       "title": "图灵边界与量子霸权",
       "originalFilename": "019_图灵边界与量子霸权_传统图灵计算物理极限与容错量子计算演进机制专题深度研究手稿.pdf",
       "filename": "sci-123-019.pdf",
@@ -251,6 +270,7 @@
     },
     {
       "number": 20,
+      "sourceNumber": "020",
       "title": "嵌合耐受与免疫制动",
       "originalFilename": "020_嵌合耐受与免疫制动_移植器官与自身免疫病选择性免疫耐受诱导机制专题深度研究手稿.pdf",
       "filename": "sci-123-020.pdf",
@@ -264,6 +284,7 @@
     },
     {
       "number": 21,
+      "sourceNumber": "021",
       "title": "非局域纠缠与实在之基",
       "originalFilename": "021_非局域纠缠与实在之基_量子不确定性与非局域关联的深层物理原理专题深度研究手稿.pdf",
       "filename": "sci-123-021.pdf",
@@ -277,6 +298,7 @@
     },
     {
       "number": 22,
+      "sourceNumber": "022",
       "title": "广谱中和与免疫破盾",
       "originalFilename": "022_广谱中和与免疫破盾_高变异艾滋病病毒免疫逃逸与广谱疫苗设计机制专题深度研究手稿.pdf",
       "filename": "sci-123-022.pdf",
@@ -290,6 +312,7 @@
     },
     {
       "number": 23,
+      "sourceNumber": "023",
       "title": "云气反馈与气候敏感",
       "originalFilename": "023_云气反馈与气候敏感_温室气体倍增下全球平衡气候敏感度约束机制专题深度研究手稿.pdf",
       "filename": "sci-123-023.pdf",
@@ -303,6 +326,7 @@
     },
     {
       "number": 24,
+      "sourceNumber": "024",
       "title": "后油转型与光氢聚能",
       "originalFilename": "024_后油转型与光氢聚能_廉价石油替代能源路径与太瓦级清洁转换机制专题深度研究手稿.pdf",
       "filename": "sci-123-024.pdf",
@@ -316,6 +340,7 @@
     },
     {
       "number": 25,
+      "sourceNumber": "025",
       "title": "生态阈值与百亿承载",
       "originalFilename": "025_生态阈值与百亿承载_百亿人口可持续发展与生态系统服务承载边界专题深度研究手稿.pdf",
       "filename": "sci-123-025.pdf",
@@ -329,6 +354,7 @@
     },
     {
       "number": 26,
+      "sourceNumber": "026",
       "title": "永恒暴胀与真空景观",
       "originalFilename": "026_永恒暴胀与真空景观_多重宇宙假说可证伪性与早期宇宙拓扑印记机制专题深度研究手稿.pdf",
       "filename": "sci-123-026.pdf",
@@ -342,6 +368,7 @@
     },
     {
       "number": 27,
+      "sourceNumber": "027",
       "title": "暴胀标量与原初张量",
       "originalFilename": "027_暴胀标量与原初张量_早期宇宙指数级暴胀动力学与暴胀子场物理机制专题深度研究手稿.pdf",
       "filename": "sci-123-027.pdf",
@@ -355,6 +382,7 @@
     },
     {
       "number": 28,
+      "sourceNumber": "028",
       "title": "初代星火与宇宙再电离",
       "originalFilename": "028_初代星火与宇宙再电离_第一代无金属恒星与原初星系坍缩及再电离机制专题深度研究手稿.pdf",
       "filename": "sci-123-028.pdf",
@@ -368,6 +396,7 @@
     },
     {
       "number": 29,
+      "sourceNumber": "029",
       "title": "极能粒子与河外加速",
       "originalFilename": "029_极能粒子与河外加速_超高能宇宙射线跨星系传播截断与天体加速源机制专题深度研究手稿.pdf",
       "filename": "sci-123-029.pdf",
@@ -381,6 +410,7 @@
     },
     {
       "number": 30,
+      "sourceNumber": "030",
       "title": "视界磁旋与类星喷流",
       "originalFilename": "030_视界磁旋与类星喷流_超大质量黑洞吸积与类星体相对论性喷流驱动机制专题深度研究手稿.pdf",
       "filename": "sci-123-030.pdf",
@@ -394,6 +424,7 @@
     },
     {
       "number": 31,
+      "sourceNumber": "031",
       "title": "视界全息与信息幺正",
       "originalFilename": "031_视界全息与信息幺正_黑洞量子热力学本质与霍金辐射信息守恒机制专题深度研究手稿.pdf",
       "filename": "sci-123-031.pdf",
@@ -407,6 +438,7 @@
     },
     {
       "number": 32,
+      "sourceNumber": "032",
       "title": "重子发生与对称破缺",
       "originalFilename": "032_重子发生与对称破缺_宇宙正反物质不对称性起源与轻子CP破缺机制专题深度研究手稿.pdf",
       "filename": "sci-123-032.pdf",
@@ -420,6 +452,7 @@
     },
     {
       "number": 33,
+      "sourceNumber": "033",
       "title": "重子不守恒与质子寿命",
       "originalFilename": "033_重子不守恒与质子寿命_大统一理论下夸克轻子转化与质子衰变搜寻机制专题深度研究手稿.pdf",
       "filename": "sci-123-033.pdf",
@@ -433,6 +466,7 @@
     },
     {
       "number": 34,
+      "sourceNumber": "034",
       "title": "时空几何与引力曲率",
       "originalFilename": "034_时空几何与引力曲率_万有引力的微观量子本质与红外紫外标度检验机制专题深度研究手稿.pdf",
       "filename": "sci-123-034.pdf",
@@ -446,6 +480,7 @@
     },
     {
       "number": 35,
+      "sourceNumber": "035",
       "title": "热力学箭与因果光锥",
       "originalFilename": "035_热力学箭与因果光锥_时间维度单向不可逆演进与洛伦兹度规异质机制专题深度研究手稿.pdf",
       "filename": "sci-123-035.pdf",
@@ -459,6 +494,7 @@
     },
     {
       "number": 36,
+      "sourceNumber": "036",
       "title": "前子复合与分数量荷",
       "originalFilename": "036_前子复合与分数量荷_夸克亚结构探索与强相互作用衍生准粒子机制专题深度研究手稿.pdf",
       "filename": "sci-123-036.pdf",
@@ -472,6 +508,7 @@
     },
     {
       "number": 37,
+      "sourceNumber": "037",
       "title": "马约拉纳与无中微子双衰",
       "originalFilename": "037_马约拉纳与无中微子双衰_中微子正反粒子同一性判据与轻子数破缺机制专题深度研究手稿.pdf",
       "filename": "sci-123-037.pdf",
@@ -485,6 +522,7 @@
     },
     {
       "number": 38,
+      "sourceNumber": "038",
       "title": "莫特关联与奇异金属",
       "originalFilename": "038_莫特关联与奇异金属_强关联电子体系非费米液体行为与统一理论机制专题深度研究手稿.pdf",
       "filename": "sci-123-038.pdf",
@@ -498,6 +536,7 @@
     },
     {
       "number": 39,
+      "sourceNumber": "039",
       "title": "施温格场与拍瓦极光",
       "originalFilename": "039_施温格场与拍瓦极光_超强激光脉冲极限功率与量子电动力学真空击穿机制专题深度研究手稿.pdf",
       "filename": "sci-123-039.pdf",
@@ -511,6 +550,7 @@
     },
     {
       "number": 40,
+      "sourceNumber": "040",
       "title": "负折超材与倏逝放大",
       "originalFilename": "040_负折超材与倏逝放大_突破瑞利衍射极限的完美光学透镜超材料构建机制专题深度研究手稿.pdf",
       "filename": "sci-123-040.pdf",
@@ -524,6 +564,7 @@
     },
     {
       "number": 41,
+      "sourceNumber": "041",
       "title": "居里自旋与室温磁半",
       "originalFilename": "041_居里自旋与室温磁半_室温铁磁性稀磁半导体交换耦合与自旋注入机制专题深度研究手稿.pdf",
       "filename": "sci-123-041.pdf",
@@ -537,6 +578,7 @@
     },
     {
       "number": 42,
+      "sourceNumber": "042",
       "title": "反铁涨落与非常规配对",
       "originalFilename": "042_反铁涨落与非常规配对_高温超导体电子库珀配对媒介与赝能隙演化机制专题深度研究手稿.pdf",
       "filename": "sci-123-042.pdf",
@@ -550,6 +592,7 @@
     },
     {
       "number": 43,
+      "sourceNumber": "043",
       "title": "能量级串与力链堵塞",
       "originalFilename": "043_能量级串与力链堵塞_湍流多尺度涡旋耗散与颗粒介质堵塞相变普适机制专题深度研究手稿.pdf",
       "filename": "sci-123-043.pdf",
@@ -563,6 +606,7 @@
     },
     {
       "number": 44,
+      "sourceNumber": "044",
       "title": "幻数壳层与超重稳定岛",
       "originalFilename": "044_幻数壳层与超重稳定岛_超重核素壳层修正能与长寿命稳定岛合成机制专题深度研究手稿.pdf",
       "filename": "sci-123-044.pdf",
@@ -576,6 +620,7 @@
     },
     {
       "number": 45,
+      "sourceNumber": "045",
       "title": "晶格相干与超固相变",
       "originalFilename": "045_晶格相干与超固相变_晶态固体长程周期序与无摩擦超流共存物理机制专题深度研究手稿.pdf",
       "filename": "sci-123-045.pdf",
@@ -589,6 +634,7 @@
     },
     {
       "number": 46,
+      "sourceNumber": "046",
       "title": "四面氢键与双态液水",
       "originalFilename": "046_四面氢键与双态液水_液态水飞秒动态氢键网络重构与热力学反常机制专题深度研究手稿.pdf",
       "filename": "sci-123-046.pdf",
@@ -602,6 +648,7 @@
     },
     {
       "number": 47,
+      "sourceNumber": "047",
       "title": "构型熵与玻璃慢弛豫",
       "originalFilename": "047_构型熵与玻璃慢弛豫_过冷液体玻璃化转变动力学停滞与非晶结构本质专题深度研究手稿.pdf",
       "filename": "sci-123-047.pdf",
@@ -615,6 +662,7 @@
     },
     {
       "number": 48,
+      "sourceNumber": "048",
       "title": "骨架构筑与合成极限",
       "originalFilename": "048_骨架构筑与合成极限_复杂分子全合成反应网络效率与选择性突破机制专题深度研究手稿.pdf",
       "filename": "sci-123-048.pdf",
@@ -628,6 +676,7 @@
     },
     {
       "number": 49,
+      "sourceNumber": "049",
       "title": "肖克利界与热载叠层",
       "originalFilename": "049_肖克利界与热载叠层_太阳光谱光子能量转换极限与多结叠层光伏机制专题深度研究手稿.pdf",
       "filename": "sci-123-049.pdf",
@@ -641,6 +690,7 @@
     },
     {
       "number": 50,
+      "sourceNumber": "050",
       "title": "磁笼约束与聚变点火",
       "originalFilename": "050_磁笼约束与聚变点火_受控核聚变等离子体稳态高约束燃烧与氚自持机制专题深度研究手稿.pdf",
       "filename": "sci-123-050.pdf",
@@ -654,6 +704,7 @@
     },
     {
       "number": 51,
+      "sourceNumber": "051",
       "title": "差旋发电机与太阳磁周",
       "originalFilename": "051_差旋发电机与太阳磁周_太阳内部对流差旋层磁场放大与十一周年周期机制专题深度研究手稿.pdf",
       "filename": "sci-123-051.pdf",
@@ -667,6 +718,7 @@
     },
     {
       "number": 52,
+      "sourceNumber": "052",
       "title": "流不稳定与星子吸积",
       "originalFilename": "052_流不稳定与星子吸积_原行星盘尘埃克服米级势垒聚集与行星系统形成机制专题深度研究手稿.pdf",
       "filename": "sci-123-052.pdf",
@@ -680,6 +732,7 @@
     },
     {
       "number": 53,
+      "sourceNumber": "053",
       "title": "米兰科维奇与碳冰耦合",
       "originalFilename": "053_米兰科维奇与碳冰耦合_地球轨道辐射强迫与深海碳循环驱动冰期旋回机制专题深度研究手稿.pdf",
       "filename": "sci-123-053.pdf",
@@ -693,6 +746,7 @@
     },
     {
       "number": 54,
+      "sourceNumber": "054",
       "title": "外核湍流与地磁倒转",
       "originalFilename": "054_外核湍流与地磁倒转_地球液态铁外核磁流体发电机失稳与极性倒转机制专题深度研究手稿.pdf",
       "filename": "sci-123-054.pdf",
@@ -706,6 +760,7 @@
     },
     {
       "number": 55,
+      "sourceNumber": "055",
       "title": "断层成核与慢滑前兆",
       "originalFilename": "055_断层成核与慢滑前兆_地壳断层失稳破裂成核过程与地震物理前兆识别机制专题深度研究手稿.pdf",
       "filename": "sci-123-055.pdf",
@@ -719,6 +774,7 @@
     },
     {
       "number": 56,
+      "sourceNumber": "056",
       "title": "冰下热液与太阳系寻生",
       "originalFilename": "056_冰下热液与太阳系寻生_太阳系卫星冰下海洋与火星地下宜居环境生命探测机制专题深度研究手稿.pdf",
       "filename": "sci-123-056.pdf",
@@ -732,6 +788,7 @@
     },
     {
       "number": 57,
+      "sourceNumber": "057",
       "title": "自催化破缺与生命手性",
       "originalFilename": "057_自催化破缺与生命手性_生物大分子单一旋光同手性起源与对映体富集机制专题深度研究手稿.pdf",
       "filename": "sci-123-057.pdf",
@@ -745,6 +802,7 @@
     },
     {
       "number": 58,
+      "sourceNumber": "058",
       "title": "漏斗势能与蛋白折叠",
       "originalFilename": "058_漏斗势能与蛋白折叠_氨基酸序列决定蛋白质三维构象动力学与结构预测机制专题深度研究手稿.pdf",
       "filename": "sci-123-058.pdf",
@@ -758,6 +816,7 @@
     },
     {
       "number": 59,
+      "sourceNumber": "059",
       "title": "可变剪接与修饰蛋白组",
       "originalFilename": "059_可变剪接与修饰蛋白组_人类蛋白质变体全景多样性谱系与修饰异构体定量机制专题深度研究手稿.pdf",
       "filename": "sci-123-059.pdf",
@@ -771,6 +830,7 @@
     },
     {
       "number": 60,
+      "sourceNumber": "060",
       "title": "瞬态变构与液滴寻靶",
       "originalFilename": "060_瞬态变构与液滴寻靶_拥挤胞内环境下蛋白质特异识别与无膜相分离寻伴机制专题深度研究手稿.pdf",
       "filename": "sci-123-060.pdf",
@@ -784,6 +844,7 @@
     },
     {
       "number": 61,
+      "sourceNumber": "061",
       "title": "程序凋亡与焦亡铁亡",
       "originalFilename": "061_程序凋亡与焦亡铁亡_多模态受控细胞死亡信号通路互作与病理生理机制专题深度研究手稿.pdf",
       "filename": "sci-123-061.pdf",
@@ -797,6 +858,7 @@
     },
     {
       "number": 62,
+      "sourceNumber": "062",
       "title": "囊泡分选与马达输运",
       "originalFilename": "062_囊泡分选与马达输运_真核细胞内囊泡定向靶向融合与微管分子马达调控机制专题深度研究手稿.pdf",
       "filename": "sci-123-062.pdf",
@@ -810,6 +872,7 @@
     },
     {
       "number": 63,
+      "sourceNumber": "063",
       "title": "中心粒复制与朊样遗传",
       "originalFilename": "063_中心粒复制与朊样遗传_独立于细胞核DNA的细胞器与蛋白模板自我复制机制专题深度研究手稿.pdf",
       "filename": "sci-123-063.pdf",
@@ -823,6 +886,7 @@
     },
     {
       "number": 64,
+      "sourceNumber": "064",
       "title": "非编码核糖与基因组调控",
       "originalFilename": "064_非编码核糖与基因组调控_长链及小分子非编码RNA塑造染色质构象与表达调控机制专题深度研究手稿.pdf",
       "filename": "sci-123-064.pdf",
@@ -836,6 +900,7 @@
     },
     {
       "number": 65,
+      "sourceNumber": "065",
       "title": "端粒护帽与着丝粒表观",
       "originalFilename": "065_端粒护帽与着丝粒表观_染色体端粒复制稳态维持与着丝粒动粒组装分离机制专题深度研究手稿.pdf",
       "filename": "sci-123-065.pdf",
@@ -849,6 +914,7 @@
     },
     {
       "number": 66,
+      "sourceNumber": "066",
       "title": "转座扩增与基因组C值",
       "originalFilename": "066_转座扩增与基因组C值_真核生物基因组大小悬殊演化与非编码序列清除平衡机制专题深度研究手稿.pdf",
       "filename": "sci-123-066.pdf",
@@ -862,6 +928,7 @@
     },
     {
       "number": 67,
+      "sourceNumber": "067",
       "title": "暗基因组与远端增强子",
       "originalFilename": "067_暗基因组与远端增强子_非编码DNA序列顺式调控元件与染色质拓扑功能机制专题深度研究手稿.pdf",
       "filename": "sci-123-067.pdf",
@@ -875,6 +942,7 @@
     },
     {
       "number": 68,
+      "sourceNumber": "068",
       "title": "合成测序与纳米孔通量",
       "originalFilename": "068_合成测序与纳米孔通量_高通量长读长DNA测序物理化学原理与成本数量级压缩机制专题深度研究手稿.pdf",
       "filename": "sci-123-068.pdf",
@@ -888,6 +956,7 @@
     },
     {
       "number": 69,
+      "sourceNumber": "069",
       "title": "河马通路与机械张力控长",
       "originalFilename": "069_河马通路与机械张力控长_器官特征尺寸内禀感知与全身系统生长终止调控机制专题深度研究手稿.pdf",
       "filename": "sci-123-069.pdf",
@@ -901,6 +970,7 @@
     },
     {
       "number": 70,
+      "sourceNumber": "070",
       "title": "跨代印记与组蛋白记忆",
       "originalFilename": "070_跨代印记与组蛋白记忆_不依赖DNA序列突变的表观遗传信息跨细胞与跨代传递机制专题深度研究手稿.pdf",
       "filename": "sci-123-070.pdf",
@@ -914,6 +984,7 @@
     },
     {
       "number": 71,
+      "sourceNumber": "071",
       "title": "节点纤毛流与左右破缺",
       "originalFilename": "071_节点纤毛流与左右破缺_早期胚胎前后背腹体轴建立与左右不对称性决定机制专题深度研究手稿.pdf",
       "filename": "sci-123-071.pdf",
@@ -927,6 +998,7 @@
     },
     {
       "number": 72,
+      "sourceNumber": "072",
       "title": "增强子重塑与附肢面演化",
       "originalFilename": "072_增强子重塑与附肢面演化_脊椎动物鱼鳍向四肢跃迁与颅面形态发育演化调控机制专题深度研究手稿.pdf",
       "filename": "sci-123-072.pdf",
@@ -940,6 +1012,7 @@
     },
     {
       "number": 73,
+      "sourceNumber": "073",
       "title": "吻肽脉冲与青春启动",
       "originalFilename": "073_吻肽脉冲与青春启动_下丘脑促性腺激素释放激素脉冲重激活与青春期启动机制专题深度研究手稿.pdf",
       "filename": "sci-123-073.pdf",
@@ -953,6 +1026,7 @@
     },
     {
       "number": 74,
+      "sourceNumber": "074",
       "title": "肿瘤干性与可塑去分化",
       "originalFilename": "074_肿瘤干性与可塑去分化_肿瘤起始干细胞层级异质性与治疗耐药复发驱动机制专题深度研究手稿.pdf",
       "filename": "sci-123-074.pdf",
@@ -966,6 +1040,7 @@
     },
     {
       "number": 75,
+      "sourceNumber": "075",
       "title": "免疫编辑与检查点解抑",
       "originalFilename": "075_免疫编辑与检查点解抑_肿瘤免疫监视逃逸机制与T细胞免疫检查点重激活疗法专题深度研究手稿.pdf",
       "filename": "sci-123-075.pdf",
@@ -979,6 +1054,7 @@
     },
     {
       "number": 76,
+      "sourceNumber": "076",
       "title": "适应性控瘤与克隆博弈",
       "originalFilename": "076_适应性控瘤与克隆博弈_利用药物敏感细胞竞争抑制耐药克隆的癌症慢病化控制机制专题深度研究手稿.pdf",
       "filename": "sci-123-076.pdf",
@@ -992,6 +1068,7 @@
     },
     {
       "number": 77,
+      "sourceNumber": "077",
       "title": "炎症小体与慢病炎老",
       "originalFilename": "077_炎症小体与慢病炎老_慢性低度系统性炎症驱动代谢心血管及神经退行性疾病机制专题深度研究手稿.pdf",
       "filename": "sci-123-077.pdf",
@@ -1005,6 +1082,7 @@
     },
     {
       "number": 78,
+      "sourceNumber": "078",
       "title": "错误折叠与淀粉样增殖",
       "originalFilename": "078_错误折叠与淀粉样增殖_朊蛋白构象模板诱导转换与跨物种海绵状脑病致病机制专题深度研究手稿.pdf",
       "filename": "sci-123-078.pdf",
@@ -1018,6 +1096,7 @@
     },
     {
       "number": 79,
+      "sourceNumber": "079",
       "title": "模式识别与天然免疫记忆",
       "originalFilename": "079_模式识别与天然免疫记忆_脊椎动物Toll样受体天然免疫应答与适应性免疫桥接机制专题深度研究手稿.pdf",
       "filename": "sci-123-079.pdf",
@@ -1031,6 +1110,7 @@
     },
     {
       "number": 80,
+      "sourceNumber": "080",
       "title": "长寿浆细胞与记忆维持",
       "originalFilename": "080_长寿浆细胞与记忆维持_无持续抗原暴露下长寿命免疫记忆细胞稳态维持机制专题深度研究手稿.pdf",
       "filename": "sci-123-080.pdf",
@@ -1044,6 +1124,7 @@
     },
     {
       "number": 81,
+      "sourceNumber": "081",
       "title": "母胎界面与半同种耐受",
       "originalFilename": "081_母胎界面与半同种耐受_妊娠期母体免疫系统耐受半同种异体胎儿的分子屏障机制专题深度研究手稿.pdf",
       "filename": "sci-123-081.pdf",
@@ -1057,6 +1138,7 @@
     },
     {
       "number": 82,
+      "sourceNumber": "082",
       "title": "视交叉核与转录反馈钟",
       "originalFilename": "082_视交叉核与转录反馈钟_哺乳动物主生物钟光夹带同步与外周组织节律耦合机制专题深度研究手稿.pdf",
       "filename": "sci-123-082.pdf",
@@ -1070,6 +1152,7 @@
     },
     {
       "number": 83,
+      "sourceNumber": "083",
       "title": "隐花色素与地磁星辰导航",
       "originalFilename": "083_隐花色素与地磁星辰导航_远距离迁徙动物自由基对量子磁感应与多模态导航机制专题深度研究手稿.pdf",
       "filename": "sci-123-083.pdf",
@@ -1083,6 +1166,7 @@
     },
     {
       "number": 84,
+      "sourceNumber": "084",
       "title": "突触稳态与类淋巴清毒",
       "originalFilename": "084_突触稳态与类淋巴清毒_睡眠的突触权重重整化功能与脑内代谢废物清除机制专题深度研究手稿.pdf",
       "filename": "sci-123-084.pdf",
@@ -1096,6 +1180,7 @@
     },
     {
       "number": 85,
+      "sourceNumber": "085",
       "title": "异相激活与梦境情绪整合",
       "originalFilename": "085_异相激活与梦境情绪整合_快速眼动睡眠边缘系统高激活与梦境记忆重构神经机制专题深度研究手稿.pdf",
       "filename": "sci-123-085.pdf",
@@ -1109,6 +1194,7 @@
     },
     {
       "number": 86,
+      "sourceNumber": "086",
       "title": "抑制性成熟与神经围网",
       "originalFilename": "086_抑制性成熟与神经围网_大脑发育关键期开启关闭机制与成年语言可塑性重激活专题深度研究手稿.pdf",
       "filename": "sci-123-086.pdf",
@@ -1122,6 +1208,7 @@
     },
     {
       "number": 87,
+      "sourceNumber": "087",
       "title": "犁鼻退化与化学社会信号",
       "originalFilename": "087_犁鼻退化与化学社会信号_人类化学感应信号传导通路与社会生殖内分泌调节机制专题深度研究手稿.pdf",
       "filename": "sci-123-087.pdf",
@@ -1135,6 +1222,7 @@
     },
     {
       "number": 88,
+      "sourceNumber": "088",
       "title": "离子通道与皮层失联麻醉",
       "originalFilename": "088_离子通道与皮层失联麻醉_全身麻醉药物靶向突触受体与阻断全脑意识整合机制专题深度研究手稿.pdf",
       "filename": "sci-123-088.pdf",
@@ -1148,6 +1236,7 @@
     },
     {
       "number": 89,
+      "sourceNumber": "089",
       "title": "突触修剪与多巴胺失衡",
       "originalFilename": "089_突触修剪与多巴胺失衡_精神分裂症多基因遗传风险与青春期前额叶突触过度修剪机制专题深度研究手稿.pdf",
       "filename": "sci-123-089.pdf",
@@ -1161,6 +1250,7 @@
     },
     {
       "number": 90,
+      "sourceNumber": "090",
       "title": "突触支架与社交环路发育",
       "originalFilename": "090_突触支架与社交环路发育_自闭症谱系障碍早期皮层发育异常与兴奋抑制失衡机制专题深度研究手稿.pdf",
       "filename": "sci-123-090.pdf",
@@ -1174,6 +1264,7 @@
     },
     {
       "number": 91,
+      "sourceNumber": "091",
       "title": "斑块清除与认知储备",
       "originalFilename": "091_斑块清除与认知储备_阿尔茨海默病发病延缓与神经退行阻断机制专题深度研究手稿.pdf",
       "filename": "sci-123-091.pdf",
@@ -1187,6 +1278,7 @@
     },
     {
       "number": 92,
+      "sourceNumber": "092",
       "title": "奖赏劫持与冲动重塑",
       "originalFilename": "092_奖赏劫持与冲动重塑_物质成瘾的多巴胺环路重塑与强迫觅药机制专题深度研究手稿.pdf",
       "filename": "sci-123-092.pdf",
@@ -1200,6 +1292,7 @@
     },
     {
       "number": 93,
+      "sourceNumber": "093",
       "title": "双轨权衡与共情环路",
       "originalFilename": "093_双轨权衡与共情环路_人类道德判断的大脑神经环路与演化发育机制专题深度研究手稿.pdf",
       "filename": "sci-123-093.pdf",
@@ -1213,6 +1306,7 @@
     },
     {
       "number": 94,
+      "sourceNumber": "094",
       "title": "统计泛化与因果推理",
       "originalFilename": "094_统计泛化与因果推理_机器学习抽象推理极限与世界模型泛化机制专题深度研究手稿.pdf",
       "filename": "sci-123-094.pdf",
@@ -1226,6 +1320,7 @@
     },
     {
       "number": 95,
+      "sourceNumber": "095",
       "title": "多基因谱与环境塑形",
       "originalFilename": "095_多基因谱与环境塑形_人类人格特质的多基因遗传架构与环境交互机制专题深度研究手稿.pdf",
       "filename": "sci-123-095.pdf",
@@ -1239,6 +1334,7 @@
     },
     {
       "number": 96,
+      "sourceNumber": "096",
       "title": "多基因底色与产前内分泌",
       "originalFilename": "096_多基因底色与产前内分泌_人类性取向的多基因遗传与产前神经内分泌机制专题深度研究手稿.pdf",
       "filename": "sci-123-096.pdf",
@@ -1252,6 +1348,7 @@
     },
     {
       "number": 97,
+      "sourceNumber": "097",
       "title": "直系同源与生命之网",
       "originalFilename": "097_直系同源与生命之网_系统发育基因组学共识进化树与网状演化机制专题深度研究手稿.pdf",
       "filename": "sci-123-097.pdf",
@@ -1265,6 +1362,7 @@
     },
     {
       "number": 98,
+      "sourceNumber": "098",
       "title": "分类外推与暗物种编目",
       "originalFilename": "098_分类外推与暗物种编目_全球现存物种总数估算与环境DNA生物多样性测度机制专题深度研究手稿.pdf",
       "filename": "sci-123-098.pdf",
@@ -1278,6 +1376,7 @@
     },
     {
       "number": 99,
+      "sourceNumber": "099",
       "title": "生殖隔离与谱系分化",
       "originalFilename": "099_生殖隔离与谱系分化_物种概念界定、杂交基因渗入与连续谱系分化机制专题深度研究手稿.pdf",
       "filename": "sci-123-099.pdf",
@@ -1291,6 +1390,7 @@
     },
     {
       "number": 100,
+      "sourceNumber": "100",
       "title": "跨界转移与适应演化",
       "originalFilename": "100_跨界转移与适应演化_跨物种水平基因转移分子媒介与适应性演化机制专题深度研究手稿.pdf",
       "filename": "sci-123-100.pdf",
@@ -1304,6 +1404,7 @@
     },
     {
       "number": 101,
+      "sourceNumber": "101",
       "title": "深海氢源与万生共祖",
       "originalFilename": "101_深海氢源与万生共祖_最后共同祖先基因组重构与早期细胞代谢起源机制专题深度研究手稿.pdf",
       "filename": "sci-123-101.pdf",
@@ -1317,6 +1418,7 @@
     },
     {
       "number": 102,
+      "sourceNumber": "102",
       "title": "古多倍化与花器辐射",
       "originalFilename": "102_古多倍化与花器辐射_被子植物花器官起源演化与白垩纪爆发辐射机制专题深度研究手稿.pdf",
       "filename": "sci-123-102.pdf",
@@ -1330,6 +1432,7 @@
     },
     {
       "number": 103,
+      "sourceNumber": "103",
       "title": "微纤丝编织与抗解屏障",
       "originalFilename": "103_微纤丝编织与抗解屏障_植物细胞壁多糖木质素合成组装与生物质转化机制专题深度研究手稿.pdf",
       "filename": "sci-123-103.pdf",
@@ -1343,6 +1446,7 @@
     },
     {
       "number": 104,
+      "sourceNumber": "104",
       "title": "分生稳态与激素水力控长",
       "originalFilename": "104_分生稳态与激素水力控长_植物终生分生生长调控与株高体型悬殊演化机制专题深度研究手稿.pdf",
       "filename": "sci-123-104.pdf",
@@ -1356,6 +1460,7 @@
     },
     {
       "number": 105,
+      "sourceNumber": "105",
       "title": "抗病小体与防御生长权衡",
       "originalFilename": "105_抗病小体与防御生长权衡_植物双层先天免疫特异性识别与抗病谱分化机制专题深度研究手稿.pdf",
       "filename": "sci-123-105.pdf",
@@ -1369,6 +1474,7 @@
     },
     {
       "number": 106,
+      "sourceNumber": "106",
       "title": "逆境传感与稳产抗逆聚合",
       "originalFilename": "106_逆境传感与稳产抗逆聚合_植物非生物逆境耐受遗传变异与多通路协同机制专题深度研究手稿.pdf",
       "filename": "sci-123-106.pdf",
@@ -1382,6 +1488,7 @@
     },
     {
       "number": 107,
+      "sourceNumber": "107",
       "title": "火成巨省与撞击灭绝",
       "originalFilename": "107_火成巨省与撞击灭绝_显生宙生物大灭绝触发机制与地球碳硫循环崩溃判据专题深度研究手稿.pdf",
       "filename": "sci-123-107.pdf",
@@ -1395,6 +1502,7 @@
     },
     {
       "number": 108,
+      "sourceNumber": "108",
       "title": "廊道庇护与遗传拯救",
       "originalFilename": "108_廊道庇护与遗传拯救_第六次生物大灭绝阻断路径与濒危物种保护机制专题深度研究手稿.pdf",
       "filename": "sci-123-108.pdf",
@@ -1408,6 +1516,7 @@
     },
     {
       "number": 109,
+      "sourceNumber": "109",
       "title": "气囊轻骨与巨兽生长",
       "originalFilename": "109_气囊轻骨与巨兽生长_蜥脚类恐龙百吨级巨型化生理代谢与生态承载机制专题深度研究手稿.pdf",
       "filename": "sci-123-109.pdf",
@@ -1421,6 +1530,7 @@
     },
     {
       "number": 110,
+      "sourceNumber": "110",
       "title": "物候错位与群落临界",
       "originalFilename": "110_物候错位与群落临界_全球变暖下生态系统多尺度响应与营养级脱节机制专题深度研究手稿.pdf",
       "filename": "sci-123-110.pdf",
@@ -1434,6 +1544,7 @@
     },
     {
       "number": 111,
+      "sourceNumber": "111",
       "title": "多支共存与古基因渗入",
       "originalFilename": "111_多支共存与古基因渗入_晚更新世多古人类物种共存格局与杂交演化关系机制专题深度研究手稿.pdf",
       "filename": "sci-123-111.pdf",
@@ -1447,6 +1558,7 @@
     },
     {
       "number": 112,
+      "sourceNumber": "112",
       "title": "赭石符号与现代认知涌现",
       "originalFilename": "112_赭石符号与现代认知涌现_智人抽象符号思维、艺术语言与现代人类行为起源机制专题深度研究手稿.pdf",
       "filename": "sci-123-112.pdf",
@@ -1460,6 +1572,7 @@
     },
     {
       "number": 113,
+      "sourceNumber": "113",
       "title": "共同意向与文化棘轮",
       "originalFilename": "113_共同意向与文化棘轮_人类累积文化演化根源、高保真传授与棘轮效应机制专题深度研究手稿.pdf",
       "filename": "sci-123-113.pdf",
@@ -1473,6 +1586,7 @@
     },
     {
       "number": 114,
+      "sourceNumber": "114",
       "title": "句法递归与音律同源",
       "originalFilename": "114_句法递归与音律同源_人类语言与音乐的神经遗传基础及跨物种演化根源机制专题深度研究手稿.pdf",
       "filename": "sci-123-114.pdf",
@@ -1486,6 +1600,7 @@
     },
     {
       "number": 115,
+      "sourceNumber": "115",
       "title": "地理渐变与人类遗传谱系",
       "originalFilename": "115_地理渐变与人类遗传谱系_人类群体遗传连续渐变格局与非离散祖源演化机制专题深度研究手稿.pdf",
       "filename": "sci-123-115.pdf",
@@ -1498,7 +1613,8 @@
       "storage": "release-asset"
     },
     {
-      "number": 117,
+      "number": 116,
+      "sourceNumber": "117",
       "title": "主权赤字与利率增长权衡",
       "originalFilename": "117_主权赤字与利率增长权衡_巨额政府财政赤字对实际利率与长期经济增长影响机制专题深度研究手稿.pdf",
       "filename": "sci-123-117.pdf",
@@ -1511,7 +1627,8 @@
       "storage": "release-asset"
     },
     {
-      "number": 119,
+      "number": 117,
+      "sourceNumber": "119",
       "title": "公卫破局与精准减贫",
       "originalFilename": "119_公卫破局与精准减贫_撒哈拉以南非洲贫困陷阱成因、预期寿命逆转与发展干预机制专题深度研究手稿.pdf",
       "filename": "sci-123-119.pdf",
@@ -1524,7 +1641,8 @@
       "storage": "release-asset"
     },
     {
-      "number": 120,
+      "number": 118,
+      "sourceNumber": "120",
       "title": "椭圆有理秩与L函数零点",
       "originalFilename": "120_椭圆有理秩与L函数零点_贝赫和斯维讷通—戴尔猜想与椭圆曲线有理数解判定机制专题深度研究手稿.pdf",
       "filename": "sci-123-120.pdf",
@@ -1537,7 +1655,8 @@
       "storage": "release-asset"
     },
     {
-      "number": 121,
+      "number": 119,
+      "sourceNumber": "121",
       "title": "调和上同调与代数闭链",
       "originalFilename": "121_调和上同调与代数闭链_霍奇猜想中拓扑霍奇闭链的代数子簇线性组合实现机制专题深度研究手稿.pdf",
       "filename": "sci-123-121.pdf",
@@ -1550,7 +1669,8 @@
       "storage": "release-asset"
     },
     {
-      "number": 122,
+      "number": 120,
+      "sourceNumber": "122",
       "title": "涡度拉伸与全局正则解",
       "originalFilename": "122_涡度拉伸与全局正则解_三维不可压缩纳维—斯托克斯方程全局光滑解与奇点爆破机制专题深度研究手稿.pdf",
       "filename": "sci-123-122.pdf",
@@ -1563,7 +1683,8 @@
       "storage": "release-asset"
     },
     {
-      "number": 123,
+      "number": 121,
+      "sourceNumber": "123",
       "title": "里奇流手术与三维球面",
       "originalFilename": "123_里奇流手术与三维球面_庞加莱猜想四维空间三维球面单连通判别与几何化证明机制专题深度研究手稿.pdf",
       "filename": "sci-123-123.pdf",
@@ -1576,7 +1697,8 @@
       "storage": "release-asset"
     },
     {
-      "number": 124,
+      "number": 122,
+      "sourceNumber": "124",
       "title": "临界线零点与素数分布",
       "originalFilename": "124_临界线零点与素数分布_黎曼Zeta函数非平凡零点实部二分之一临界线与素数规律机制专题深度研究手稿.pdf",
       "filename": "sci-123-124.pdf",
@@ -1589,7 +1711,8 @@
       "storage": "release-asset"
     },
     {
-      "number": 125,
+      "number": 123,
+      "sourceNumber": "125",
       "title": "非阿贝尔禁闭与质量间隙",
       "originalFilename": "125_非阿贝尔禁闭与质量间隙_四维量子杨—米尔斯规范场严格构造存在性与正质量间隙机制专题深度研究手稿.pdf",
       "filename": "sci-123-125.pdf",
@@ -1605,13 +1728,13 @@
       "number": 124,
       "title": "四维微分与怪异球面",
       "originalFilename": "四维微分与怪异球面_四维拓扑与光滑庞加莱猜想微分结构分岔研究.pdf",
-      "filename": "四维微分与怪异球面.pdf",
+      "filename": "manuscript-124.pdf",
       "bytes": 1616006,
       "sha256": "5c651a62b0d5e230792414bc1fc7398eacfd907242423ae3e7b6af295f289cb2",
       "pages": 124,
       "websiteId": "d0cb0b4d-a8cc-4f8d-84ef-0f2cba29e793",
       "websiteUrl": "https://ziyor-ai.com/news#research-document-d0cb0b4d-a8cc-4f8d-84ef-0f2cba29e793",
-      "downloadUrl": "https://github.com/ziyor-ai/research-manuscripts/releases/download/manuscripts-20261119/%E5%9B%9B%E7%BB%B4%E5%BE%AE%E5%88%86%E4%B8%8E%E6%80%AA%E5%BC%82%E7%90%83%E9%9D%A2.pdf",
+      "downloadUrl": "https://github.com/ziyor-ai/research-manuscripts/releases/download/manuscripts-20261119/manuscript-124.pdf",
       "storage": "release-asset"
     },
     {
